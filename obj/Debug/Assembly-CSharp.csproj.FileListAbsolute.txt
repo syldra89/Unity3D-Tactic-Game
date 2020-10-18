@@ -1,0 +1,2 @@
+G:\Unity3D\2020_TacticsGame\2020_TacticsGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Unity3D\2020_TacticsGame\2020_TacticsGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
